@@ -68,7 +68,7 @@ window.onload = function(){
 		var musicAudio = document.getElementById('music-audio');
 		musicAudio.addEventListener('pause',function(e){
 			console.log( this.paused );
-			musicIco.className = 'music-ico';
+			musicIco.className = 'music-ico ';
 		});
 		musicAudio.addEventListener('play',function(e){
 			console.log( this.paused );
