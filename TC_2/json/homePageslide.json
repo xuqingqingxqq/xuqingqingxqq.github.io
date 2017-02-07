@@ -64,73 +64,73 @@
         ],
         [
             {"img":"images/images1/global.jpg"},
-            {"img":"images/images1/dongnanya1.jpg.webp","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/dongnanya2.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/dongnanya3.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/dongnanya4.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/dongnanya5.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/dongnanya6.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/dongnanya7.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"}
+            {"img":"images/images1/dongnanya1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/dongnanya2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/dongnanya3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/dongnanya4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/dongnanya5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/dongnanya6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/dongnanya7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-            {"img":"images/images1/rihan1.jpg.webp","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/rihan2.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/rihan3.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/rihan4.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/rihan5.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/rihan6.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/rihan7.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"}
+            {"img":"images/images1/rihan1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/rihan2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/rihan3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/rihan4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/rihan5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/rihan6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/rihan7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-             {"img":"images/images1/haidao.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/haidao.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
+             {"img":"images/images1/haidao1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/haidao2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/haidao3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/haidao4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/haidao5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/haidao6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/haidao7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-             {"img":"images/images1/ouzhou1.jpg.webp","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/ouzhou2.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou3.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou4.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou5.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou6.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou7.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"}
+             {"img":"images/images1/ouzhou1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/ouzhou2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-             {"img":"images/images1/zhongdongfei1.jpg.webp","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/zhongdongfei2.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/zhongdongfei3.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/zhongdongfei4.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/zhongdongfei5.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/zhongdongfei6.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/zhongdongfei7.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"}
+             {"img":"images/images1/zhongdongfei1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/zhongdongfei2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/zhongdongfei3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/zhongdongfei4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/zhongdongfei5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/zhongdongfei6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/zhongdongfei7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-            {"img":"images/images1/aoxin.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/aoxin.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
+            {"img":"images/images1/aoxin1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/aoxin2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/aoxin3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/aoxin4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/aoxin5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/aoxin6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/aoxin7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ],
         [
             {"img":"images/images1/global.jpg"},
-             {"img":"images/images1/meizhou1.jpg.webp","mask1":"曼谷","mask2":"东方威尼斯"},
-            {"img":"images/images1/meizhou2.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/meizhou3.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/meizhou4.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/meizhou5.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/meizhou6.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"},
-            {"img":"images/images1/ouzhou7.jpg.webp","mask1":"岘港","mask2":"纯净的天然良港"}
+             {"img":"images/images1/meizhou1.jpg","mask1":"曼谷","mask2":"东方威尼斯"},
+            {"img":"images/images1/meizhou2.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/meizhou3.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/meizhou4.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/meizhou5.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/meizhou6.jpg","mask1":"岘港","mask2":"纯净的天然良港"},
+            {"img":"images/images1/ouzhou7.jpg","mask1":"岘港","mask2":"纯净的天然良港"}
         ]
 
     ]
